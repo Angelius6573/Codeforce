@@ -1,0 +1,2 @@
+1 11 111 1111
+Por temas de la longitud de cada string es un n.
